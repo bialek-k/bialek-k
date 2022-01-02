@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krzysztof Białek</h1>
-<h2>Future React Developer</h2>
+<h2 align="center" font-style="italic">Future React Developer</h2>
 <h3 align="center">I'm starting to discover a new world. The world of Front-end Development</h3>
 
 - 🔭 I’m currently working on [Weather app](https://github.com/bialek-k/Weather-App)
