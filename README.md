@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krzysztof Białek</h1>
 <h2 align="center">React Developer looking for a role </h2>
 
-- 🔭 I’m currently working on [Weather app](https://github.com/bialek-k/Weather-App)
+- 🔭 I’m currently working on [Suchar Romana app](https://github.com/bialek-k/Sucharromana-app)
 
 - 👨‍💻 All of my projects are available at [https://github.com/bialek-k?tab=repositories](https://github.com/bialek-k?tab=repositories)
 
