@@ -1,13 +1,25 @@
 <h1 align="center">Hi 👋, I'm Krzysztof Białek</h1>
 <h2 align="center">React Developer looking for a role </h2>
 
-- 🔭 I’m currently working on [Suchar Romana app](https://github.com/bialek-k/Sucharromana-app)
+<div align="center">
+  <p>My projects</p>
+  <a href="https://github.com/bialek-k/Sucharromana-app">
+<img width="300px" src="https://user-images.githubusercontent.com/57173170/151368610-6393d4c0-6ee2-4910-a8d0-e3951d14a877.png" />
+  </a>
+  <a href="https://github.com/bialek-k/Weather-App">
+<img width="300px" src="https://user-images.githubusercontent.com/57173170/151369278-f01632f8-c805-4983-8b8b-03e1a17acfe9.png" />
+  </a>
+</div>
+
+- 🔭 I’m currently learning Next.js
 
 - 👨‍💻 All of my projects are available at [https://github.com/bialek-k?tab=repositories](https://github.com/bialek-k?tab=repositories)
 
 - 📫 How to reach me **krzysztof.bialek1@gmail.com**
 
 - ⚡ Fun fact: **a year ago i thought java and javascript were the same thing :)**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
