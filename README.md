@@ -16,11 +16,10 @@
   </a>
 </div>
 
-- 🔭 Aktualnie poznałęm podstawy Next.js i zabieram się za TypeScript 
 
 - 👨‍💻 Wszystkie moje projekty, są dostępne tutaj: [https://github.com/bialek-k?tab=repositories](https://github.com/bialek-k?tab=repositories)
 
-- 📫 jeśli chciałbyś sie ze mną skontaktować: **krzysztof.bialek1@gmail.com**
+- 📫 jeśli chciałbyś sie ze mną skontaktować: **bialekdev@gmail.com**
 
 - ⚡ Fun fact: **rok temu myślałem, że Java i JavaScript to to samo :)**
 
