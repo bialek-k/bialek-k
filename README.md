@@ -5,6 +5,9 @@
 
   <p>Moje prace</p>
   
+  <a href="https://github.com/bialek-k/dafox-design">
+<img width="300px" src="https://user-images.githubusercontent.com/57173170/222347943-88606ee3-1f73-43e6-99c2-2809ad2d16f2.png" />
+  </a>
   <a href="https://github.com/bialek-k/Sucharromana-app">
 <img width="300px" src="https://user-images.githubusercontent.com/57173170/151368610-6393d4c0-6ee2-4910-a8d0-e3951d14a877.png" />
   </a>
