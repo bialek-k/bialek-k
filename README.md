@@ -27,8 +27,6 @@
 
 - 📫 jeśli chciałbyś sie ze mną skontaktować: **bialekdev@gmail.com**
 
-- ⚡ Fun fact: **rok temu myślałem, że Java i JavaScript to to samo :)**
-
 
 
 <h3 align="left">Jestem dostępny także tutaj</h3>
