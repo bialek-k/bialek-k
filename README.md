@@ -18,9 +18,6 @@ on exciting and engaging projects. Front-end Development has been my top interes
   <a href="https://www.krzysztof-bialek.pl">
 <img width="300px" src="https://user-images.githubusercontent.com/57173170/164685876-aa9b6f5e-a0d2-4b4e-99b9-c33a7f8f82f1.png" />
   </a>
-  <a href="https://github.com/bialek-k/Weather-App">
-<img width="300px" src="https://user-images.githubusercontent.com/57173170/151369278-f01632f8-c805-4983-8b8b-03e1a17acfe9.png" />
-  </a>
 </div>
 
 
